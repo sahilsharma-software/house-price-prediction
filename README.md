@@ -18,7 +18,7 @@ This project is a Machine Learning web application that predicts house prices us
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/house-price-prediction.git
+git clone https://github.com/sahilsharma-software/house-price-prediction.git
 
 Go to project folder:
 
